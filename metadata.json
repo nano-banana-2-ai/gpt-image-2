@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Studio",
+  "description": "A clean, minimalist text-to-image generator powered by Gemini AI, inspired by GPT Image 2 theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
